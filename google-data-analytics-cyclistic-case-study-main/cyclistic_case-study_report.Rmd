@@ -1,7 +1,7 @@
 ---
-title: "Cyclistic Case Study Report (July 2023-July 2024)"
-author: "Andrew McGough"
-date: "2024-09-05"
+title: "Cyclistic Case Study Report"
+author: "Shreevikas"
+date: "2024-12-17"
 output: 
   html_document: 
     toc: true
