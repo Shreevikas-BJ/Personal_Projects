@@ -1,0 +1,10 @@
+--By Shreevikas BJ
+
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+tensorflow
+arch
