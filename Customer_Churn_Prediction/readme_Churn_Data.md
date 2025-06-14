@@ -48,69 +48,11 @@ Predict whether a customer will churn (i.e., stop using a service) based on thei
 
 ---
 
-## 📷 Visualizations
-
-### Churn Distribution:
-
-
-
-### Feature Correlation Heatmap:
-
-
-
-(You can generate these charts by running the Python script or Jupyter notebook.)
-
----
-
-## 💡 How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/customer-churn-predictor.git
-cd customer-churn-predictor
-```
-
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the Python file:
-
-```bash
-python Customer_Churn_Eda.py
-```
-
-Or use the Jupyter Notebook:
-
-```bash
-jupyter notebook Customer_Churn_Analysis.ipynb
-```
-
----
-
-## 📁 Files in Repo
-
-- `Customer_Churn_Eda.py`: Main Python script
-- `Customer_Churn_Analysis.ipynb`: (Optional) Jupyter notebook version
-- `Churn_Data.csv`: Dataset (or add download instructions)
-- `requirements.txt`: Required libraries
-- `README.md`: Project documentation
-
----
 
 ## 👤 Author
 
 **Shreevikas Bangalore Jagadish**\
 📍 Chicago, IL\
 📫 [bjshreevikas@gmail.com](mailto\:bjshreevikas@gmail.com)\
-🔗 [LinkedIn](https://linkedin.com/in/YOURPROFILE) | [GitHub](https://github.com/YOURUSERNAME)
-
----
-
-## 📌 License
-
-This project is licensed under the MIT License.
+🔗 [LinkedIn](https://www.linkedin.com/in/shreevikasbj/) | [GitHub](https://github.com/Shreevikas-BJ/Shreevikas-BJ)
 
